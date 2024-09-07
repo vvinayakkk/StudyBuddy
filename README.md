@@ -33,6 +33,9 @@ Welcome to **StudyBuddy**, a powerful platform built to enhance the learning exp
    - **Real-time Collaboration**: Share notes with friends and collaborate in real-time. Create documents with text, PDFs, and images seamlessly.
    - **Rich Editor**: Add PDFs, images, and other media to your notes for a comprehensive study resource.
 
+![Screenshot 2024-09-08 011739](https://github.com/user-attachments/assets/071af8a6-84a0-4ba4-8ad1-ee048ccb2881)
+
+
 ### 4. **Friend Requests & Messaging**
    - **Social Integration**: Send friend requests and exchange messages with peers for seamless communication and collaboration.
    - **Stay Connected**: Share ideas, notes, and doubts easily.
