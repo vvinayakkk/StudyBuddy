@@ -1,4 +1,3 @@
-
 Backend: https://github.com/vvinayakkk/StuddyBuddy-Backend
 
 Frontend: https://github.com/AnushkaShendge/study-buddy-frontend
