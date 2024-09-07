@@ -39,6 +39,12 @@ Welcome to **StudyBuddy**, a powerful platform built to enhance the learning exp
 ### 7. **JWT-based Authentication**
    - **Secure Access**: Authentication powered by JWT ensures that your data remains safe and your sessions are secure.
 
+### 8. **To-Do List**
+   - **Personalized Task Management**: Students can create and manage their to-do lists for tasks like assignments, exam preparations, and more.
+   - **Task Prioritization**: Set priority levels for tasks to ensure focus on important deadlines.
+   - **Track Progress**: Mark tasks as completed and track your overall productivity.
+
+
 ---
 
 ## 🛠️ Tech Stack
